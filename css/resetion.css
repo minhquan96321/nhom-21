@@ -200,8 +200,8 @@
   .mobile-sign {
     cursor: pointer;
     margin-bottom: 20px;
-    min-width: 220px;
-    font-size: 1.4rem;
+    min-width: 200px;
+    font-size: 1.2rem;
   }
 }
 
